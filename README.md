@@ -2,7 +2,7 @@
 
 Este projeto simula a análise de fluxo de caixa de uma grande organização usando Python, MySQL e Power BI. Ele inclui scripts para gerar dados fictícios, carregar dados no MySQL e criar visualizações interativas no Power BI.
 
-![Dashboard do Power BI](imagens/dashboard.png)
+![Dashboard do Power BI](https://github.com/gustavoanalise/projeto-fluxo-caixa/blob/main/imagens/fluxo-caixa.png)
 
 ## Estrutura do Projeto
 
